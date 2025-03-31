@@ -39,6 +39,7 @@ Unfortunately, the results were disappointing:
 - Slight correlations were observed with:
   - A certain level of **influence in the organization**
   - **Work experience**
+  - Knowledge-columns
   
 These correlations, however, were not strong enough to enable a reliable prediction model. As a result, the model performed **barely better than a random number generator**.
 
